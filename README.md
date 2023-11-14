@@ -1,6 +1,5 @@
 # RODRIGO SERVIUC PAVEZI
 **Email:** rodrigopavezi@gmail.com  
-**Phone:** +55 41 997454567
 
 ## PROFILE
 Experienced Entrepreneur, Technical Leader, and Software Developer with over 20 years in the industry. Holds an MSc in Computer Science with a focus on Artificial Intelligence and a B.S. in Computer Science. Demonstrated expertise in full life-cycle development, Blockchain, and AI applications. Skilled communicator with a passion for problem-solving and information systems. Seeking opportunities to leverage a comprehensive background in software development and leadership.
