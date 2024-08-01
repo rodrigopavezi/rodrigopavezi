@@ -25,6 +25,14 @@ Experienced Entrepreneur, Technical Leader, and Software Developer with over 20 
 - **Software Management:** Agile projects (Extreme Programming and Scrum), TDD, BDD, Continuous Integration (Jenkins, Travis, GitHub Actions)
 
 ## WORK EXPERIENCE
+- **Senior Web3 Full Stack Engineer, Request.network(Remote)**  
+  August 2024 - Present  
+  Working on Financial Infrastructure for Builders to Create Web3
+  
+- **Senior Web3 Full Stack Engineer, Kima.finance(Remote)**  
+  March 2024 - August 2024 
+  I am part of the Rapid application development (RAD) team where I create solutions for clients as well as doing competition analysis building PoCs around the competitors solutions.
+
 - **Blockchain Lead, Flock.io (Remote)**  
   February 2023 - Present  
   Leading blockchain development projects, smart contract implementation, and full-stack development.
