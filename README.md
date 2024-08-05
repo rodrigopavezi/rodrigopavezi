@@ -25,7 +25,7 @@ Experienced Entrepreneur, Technical Leader, and Software Developer with over 20 
 - **Software Management:** Agile projects (Extreme Programming and Scrum), TDD, BDD, Continuous Integration (Jenkins, Travis, GitHub Actions)
 
 ## WORK EXPERIENCE
-- **Senior Web3 Full Stack Engineer, Request.network(Remote)**  
+- **Web3 Developer, Request.network(Remote)**  
   August 2024 - Present  
   Working on Financial Infrastructure for Builders to Create Web3
   
