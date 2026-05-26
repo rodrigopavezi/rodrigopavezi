@@ -25,8 +25,12 @@ Experienced Entrepreneur, Technical Leader, and Software Developer with over 20 
 - **Software Management:** Agile projects (Extreme Programming and Scrum), TDD, BDD, Continuous Integration (Jenkins, Travis, GitHub Actions)
 
 ## WORK EXPERIENCE
-- **Web3 Developer, Request.network(Remote)**  
-  August 2024 - Present  
+- **Building an awesome project..., Stealth Startup(Remote)**  
+  May 2026 - Present  
+  Building an awesome project — more details coming soon.
+  
+- **Senior Web3 Full Stack Engineer, Request.network(Remote)**  
+  August 2024 - May 2026  
   Working on Financial Infrastructure for Builders to Create Web3
   
 - **Senior Web3 Full Stack Engineer, Kima.finance(Remote)**  
